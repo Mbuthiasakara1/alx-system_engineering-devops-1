@@ -1,1 +1,1 @@
-i am working now
+All about shell permisions
